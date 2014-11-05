@@ -1,5 +1,11 @@
 #include <stdio.h>
 #include <conio.h>
+
+// HÜSEYÝN ANLAMAZ
+// 1. SINIF C EÐÝTÝMÝ
+
+
+
 // BU PROGRAM ÝKÝ SAYIDAN HANGÝSÝNÝN BÜYÜK OLDUGUNU HESAPLAR  
 /*int main ()
 {

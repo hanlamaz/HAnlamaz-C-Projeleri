@@ -2,6 +2,10 @@
 # include "conio.h"
 void main()
 /*15.10.2014*/
+
+// HÜSEYÝN ANLAMAZ
+
+
 // BU PROGRAM HESAP  YAPAR HÜSEYÝN
 /*{
 	int x,y,z,sonuc;
